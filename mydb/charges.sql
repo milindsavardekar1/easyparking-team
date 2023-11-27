@@ -1,0 +1,1 @@
+create table rates(vehicleType TEXT NOT NULL, charges REAL NOT NULL);
